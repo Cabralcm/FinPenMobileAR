@@ -4,12 +4,14 @@ FinPen Augmented Reality Android application using [Google AR Core](https://deve
 # Project Download
 Due to the project size (approximately ~ 1GB), the files are not hosted on Github. Instead please navigate to the appropriate directory corresponding to your operating system (Windows or MAC OS), and click on the respective download link.
 
+> For those interested in the code that enables the interaction components, please see [/FinPenMobileAR/script/](https://github.com/Cabralcm/FinPenMobileAR/tree/master/Scripts) for relevant C# files!
+
 # Requirements
 1) [Unity Game Engine](https://unity3d.com/get-unity/download)
 2) [Android Studio](https://developer.android.com/studio) (in particular, Android SDK and Android JDK)
 3) Follow the beginning steps to open Unity and connect project with Android SDK: [UNITY + Android + AR GUIDE](https://heartbeat.fritz.ai/the-subtle-art-of-making-lines-in-augmented-reality-using-arcore-and-unity3d-e26718dffa03)
 
-If you so desire, follow all of the steps to build your own simple drawing app!
+If you so desire, follow the entire tutorial found in Step (3) to build your own simple drawing app!
 
 # Instructions
 1) Import Reposity into Unity Project Directory (as performed in Requirements Step (3) above)
